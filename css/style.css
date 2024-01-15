@@ -14,6 +14,17 @@
     z-index: 99;
 }
 
+.pricelist {
+    display: inline-block; 
+    border: 2px solid #000; 
+    padding: 5px; 
+}
+
+.pricelist img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
 
 /*** Spinner ***/
 #spinner {
